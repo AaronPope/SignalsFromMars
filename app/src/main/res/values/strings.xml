@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Interactive Story</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="story_title">Signals from Mars</string>
+    <string name="title_activity_story">StoryActivity</string>
+    <string name="key_name">name</string>
+    <string name="page_0_text">some text for page 0</string>
+    <string name="page_1_text"> some text for page 1</string>
+    <string name="page_2_text"> some text for page 2</string>
+    <string name="page_3_text"> some text for page 3</string>
+    <string name="page_4_text"> some text for page 4</string>
+    <string name="page_5_text"> some text for page 5</string>
+    <string name="page_6_text"> some text for page 6</string>
+</resources>
